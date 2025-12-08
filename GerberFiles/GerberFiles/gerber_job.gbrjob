@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-12-08T03:05:16Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "dev board schematic"
+        },
+        "Owner": "Vihaan Mehta <mehta6952@mydusd.org>",
+        "Size": {
+            "X": 93.96,
+            "Y": 98.73
+        }
+    }
+}
